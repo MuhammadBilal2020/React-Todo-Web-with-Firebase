@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:hover.register{
+    background-color: #323f51;
+    transition: .7s;
+}
+
+
+:hover.logins{
+    background-color: #323f51;
+    transition: .7s;
+}
+
+.res{
+    width: 25rem;
+    background-color: white;
+    
+    margin: 0px auto;
+    padding: .5rem 1rem;
+}
+
+
